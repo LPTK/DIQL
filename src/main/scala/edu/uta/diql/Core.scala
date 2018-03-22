@@ -82,5 +82,6 @@ package object core {
     else None
   }
 
-  var diql_explain = false
+  //var diql_explain = false
+  var diql_explain = true
 }
